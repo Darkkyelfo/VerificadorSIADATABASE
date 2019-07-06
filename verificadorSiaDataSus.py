@@ -39,7 +39,7 @@ def qtNovosBD():
     return quantidade_atual
 
 def procurarNovoBdSia():
-    emails_receber = ["davisouzalm@gmail.com"]#lista com os email que vão receber a notificação
+    emails_receber = ["exemplo2@gmail.com"]#lista com os email que vão receber a notificação
     qtd_anterior = 0
     while(True):
         print(qtd_anterior)
